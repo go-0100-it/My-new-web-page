@@ -96,6 +96,7 @@ h1#title > span,
 
 section.demo * {
 	font-size: 13px;
+	overflow: hidden;
 }
 section.demo {
 	font-size: 0;
