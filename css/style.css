@@ -436,6 +436,11 @@ div#panel-3-container > div.column-container.split {
 		font-size: 1.8rem;
 	}
 
+	#start {
+		font-size: 0.8rem;
+		left: 40vw;
+	}
+
 	#title {
 		font-size: 10vw;
 	}
